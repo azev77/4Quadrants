@@ -30,10 +30,12 @@ The corresponding simulations:
 
 7: **Continuous Time**/**Deterministic**, Bellman Equations [EconPDEs](https://github.com/matthieugomez/EconPDEs.jl).jl (@matthieu)
 To Do...
+
 8: **Continuous Time**/**Deterministic**, Hamiltonian [InfiniteOpt](https://github.com/pulsipher/InfiniteOpt.jl).jl (@pulsipher)
 -To Do. Only finite horizon currently.
+
 9: **Continuous Time**/**Deterministic**, DE [SciML](https://github.com/SciML).jl (@ChrisRackauckas). 
 -TO DO. Only finite horizon currently. 
 If someone knows how to transform the problem to solve an infinite horizon system please post code below.
 
-11: **Continuous Time**/**Stochastic**, Bellman Equations @matthieu (Custom HJB Solver & EconPDEs.jl). To Do.
+10: **Continuous Time**/**Stochastic**, Bellman Equations @matthieu (Custom HJB Solver & EconPDEs.jl). To Do.
