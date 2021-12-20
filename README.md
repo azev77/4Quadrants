@@ -43,3 +43,7 @@ If someone knows how to transform the problem to solve an infinite horizon syste
 
 To Do: Deep learning methods
 https://discourse.julialang.org/t/solving-hjb-pde-using-deep-learning/60639/13
+
+
+Transform finite horizon DE, into infinite Horizon DE:
+https://discourse.julialang.org/t/solving-boundary-value-differential-equation-problems-for-economics/72871
