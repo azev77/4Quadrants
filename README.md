@@ -39,3 +39,7 @@ To Do...
 If someone knows how to transform the problem to solve an infinite horizon system please post code below.
 
 10: **Continuous Time**/**Stochastic**, Bellman Equations @matthieu (Custom HJB Solver & EconPDEs.jl). To Do.
+
+
+To Do: Deep learning methods
+https://discourse.julialang.org/t/solving-hjb-pde-using-deep-learning/60639/13
