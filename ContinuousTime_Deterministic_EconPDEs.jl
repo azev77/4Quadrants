@@ -19,7 +19,7 @@ if 1==1
             @goto start
         end 
         Vt = - (z*k - i -0.5*(i^2.0) + μk*Vk - ρ*V)
-        (Vt = Vt,), (Vk=Vk,)
+        (Vt = Vt,)
     end
     y, residual_norm =  pdesolve(f, stategrid, solend)
     plot(y[:V])
