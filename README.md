@@ -7,8 +7,10 @@ The corresponding simulations (using 6 different methods):
 ![image](https://user-images.githubusercontent.com/7883904/146826183-c2b4ddbf-eba4-4f06-a253-89a1fd4c9951.png)
 
 2: **Discrete-time**/**deterministic** solution using [POMDPs](https://github.com/JuliaPOMDP/POMDPs.jl).jl (@zsunberg) 
--[Code link](https://github.com/azev77/4Quadrants/blob/main/DiscreteTime_Deterministic_POMDPs.jl). Note: this example is currently not working for me. See [discussion here](https://github.com/JuliaPOMDP/POMDPs.jl/discussions/351). 
--Please post correct code below. 
+-[Code link](https://github.com/azev77/4Quadrants/blob/main/DiscreteTime_Deterministic_POMDPs.jl). See [discussion here](https://github.com/JuliaPOMDP/POMDPs.jl/discussions/351). 
+![image](https://user-images.githubusercontent.com/7883904/147296008-4afad2bb-a4ba-4934-8a23-1cf1d12f222d.png)
+![image](https://user-images.githubusercontent.com/7883904/147296019-3b7d537e-2e75-4345-8bb9-4cb4e7a84df2.png)
+
 
 3: **Discrete-time**/**deterministic** solution using [JuMP](https://github.com/jump-dev/JuMP.jl).jl (@odow & co)
 -Please post the code below. 
