@@ -49,3 +49,7 @@ https://discourse.julialang.org/t/solving-hjb-pde-using-deep-learning/60639/13
 
 Transform finite horizon DE, into infinite Horizon DE:
 https://discourse.julialang.org/t/solving-boundary-value-differential-equation-problems-for-economics/72871
+
+TO Do: incorporate discrete time (deterministic/stochastic) w/ VFI 
+https://github.com/shanemcmiken/PEinvestment
+Except try to make generic
