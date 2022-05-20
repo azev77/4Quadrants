@@ -1,6 +1,11 @@
 # 4Quadrants
 4 Quadrants of Dynamic Optimization
 
+$V(s_{t}) \text{ } \equiv \text{ } \underset{ c_{t} }{ \sup } \text{ } E_{t}\left[ \int_{s=t}^{s=T} e^{-\rho (s-t)} u(c_t, s_t) dt \right] $      
+$ds_{t} = \mu(s_{t},c_{t})dt + \sigma(s_{t},c_{t})dZ_{t} $    
+$c(s_{t}) \text{ } \equiv \text{ } \underset{ c_{t} }{ \arg\sup } \text{ } E_{t}\left[ \int_{s=t}^{s=T} e^{-\rho (s-t)} u(c_t, s_t) dt \right] $      
+
+
 1: **Discrete-time**/**deterministic** solution using [SolveDSGE](https://github.com/RJDennis/SolveDSGE.jl).jl (@RJDennis). [Code link](https://github.com/azev77/4Quadrants/blob/main/DiscreteTime_Deterministic_SolveDSGE.jl). 
 The corresponding simulations (using 6 different methods):
 
